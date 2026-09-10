@@ -10,7 +10,7 @@ This repository contains the evaluation deliverables and documentation for the *
 - **Name:** Aditya
 - **Roll No:** 2410030369
 - **Session / Batch:** 2024–2028
-- **Semester & Section:** 5th Semester, 3CSE11
+- **Semester & Section:** 5th Semester, 3CSE20
 - **Department:** School of Computer Science & Engineering
 - **Institute:** IILM University, Greater Noida
 
