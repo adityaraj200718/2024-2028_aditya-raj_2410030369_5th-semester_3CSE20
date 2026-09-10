@@ -21,8 +21,8 @@ This repository contains the evaluation deliverables and documentation for the *
 | Deliverable | Link | Description |
 |---|---|---|
 | Internship Certificate | [View Certificate](./Internship_Certificate_Aditya_Raj.png) | Official Completion Certificate issued by itsfolio.tech |
-| Internship Report | [View Report](./Internship_Report_Aditya_Raj.docx) | Detailed academic evaluation report |
-| Internship Presentation | [View PPT](./Internship_Report_PPT_Aditya_Raj(1).pptx) | Comprehensive evaluation presentation deck |
+| Internship Report | [View Report](./Internship_Report_Aditya_Raj.pdf) | Detailed academic evaluation report |
+| Internship Presentation | [View PPT](./Internship_Report_PPT_Aditya_Raj(1).pdf) | Comprehensive evaluation presentation deck |
 
 ---
 
